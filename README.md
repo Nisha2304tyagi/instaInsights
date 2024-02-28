@@ -5,4 +5,4 @@ Instagram data to uncover the strategies and insights that can catapult your pre
 
 made on -juypter notebook
 all dependecies are given in code 
-basic data visualization and predction
+basic data visualization and prediction
